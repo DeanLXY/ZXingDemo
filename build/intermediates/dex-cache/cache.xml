@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\Android\AsWorkspace\ZXingDemo\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\Android\AsWorkspace\ZXingDemo\app\libs\core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.0"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="D:\Android\AsWorkspace\ZXingDemo\app\build\intermediates\pre-dexed\debug\core-3.2.0-4e490a2a74fb9a9aaf3bc85fbed5561447e51cba.jar" />
+    </item>
+
+</items>
